@@ -55,5 +55,5 @@ Imagine being able to ask business questions in plain English and instantly gett
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nl-sql-dashboard.git
-   cd nl-sql-dashboard
+   git clone https://github.com/irfan2607/Natural-Language-to-SQL-Dashboard.git
+   cd Natural-Language-to-SQL-Dashboard
